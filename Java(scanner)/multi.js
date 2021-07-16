@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AddTwoNumbers2 {
+public class multi {
 
     public static void main(String[] args) {
         
